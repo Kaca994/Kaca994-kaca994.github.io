@@ -180,13 +180,6 @@ footer p{
 
 @media only screen and (max-width: 500px) {
 
-    .top-bar .wrap {
-    text-align: center;
-    font-size: 20px;
-    margin: 0px;
-    padding: 0px;
-    }   
-    
     p{
         font-size: 15px;
         padding:10px;
@@ -226,7 +219,7 @@ footer p{
      position: relative;
      overflow: hidden;
      width: 50%;
-     height: 210px;
+     height: 250px;
 }
       .scroll-top-wrapper.show {
         visibility:hidden;
